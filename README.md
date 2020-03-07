@@ -5,6 +5,10 @@
 * Running Platform: Jupyter Lab
 * System: Ubuntu 18.04 Lts
 
+#### View the Result
+
+Open testProgram-result.html to view the result and code directly
+
 #### Running Guid
 1. Install jupyter lab
 
