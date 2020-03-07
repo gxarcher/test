@@ -6,8 +6,8 @@
 * System: Ubuntu 18.04 Lts
 
 #### View the Result
-
-Open testProgram-result.html to view the result and code directly
+1. Download testProgram-result.html
+2. Open testProgram-result.html by browser to view the result and code directly
 
 #### Running Guid
 1. Install jupyter lab
